@@ -1,7 +1,10 @@
+/* In CSS we use 'selectors' to target a specific HTML tag for styling */
+/*In the asterisk symbol stands for ;'all' which will traget all HTML tags */
 * {
 	font-family: "Monserrat", sans-serif;
 }
-
+/*Whn selecting an HTML tag using its ID, we use the # symbol*/
+/*When selecting an HTML tag using its class, we use the "." symbol*/
 #profile{
 	height: 250px;
 	width:250px;
