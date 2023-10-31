@@ -7,8 +7,8 @@
 /*When selecting an HTML tag using its ID, we use the # symbol*/
 /*When selecting an HTML tag using its class, we use the "." symbol*/
 #profile{
-	height: 400px;
-	width:400px;
+	height: 350px;
+	width:350px;
 	border-radius: 50%;
 }
 body {
